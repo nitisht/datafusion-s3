@@ -1,0 +1,1 @@
+This is a part of article here https://www.cloudnatively.com/query-parquet-on-minio/
